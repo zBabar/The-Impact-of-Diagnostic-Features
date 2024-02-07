@@ -1,0 +1,1 @@
+Here we extract the visual features from pretrained models, finetune the model as per chexnet/chexbert labels and predict the diagnostic features
