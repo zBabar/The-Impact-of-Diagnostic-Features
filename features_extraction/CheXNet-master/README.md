@@ -7,9 +7,11 @@ This repository is based on the following paper
   year={2017}
 }
 ```
-and he code based on (but adapted as per our own needs) following repository
+and the code based on (but adapted as per our own needs) following repository
 
 https://github.com/arnoweng/CheXNet/tree/3d45ee77e2cfe6ec81bf1b87e2ed4e3fc10af6c1 
 
 
-Here, we extract visual features and diagnsotic labels from CheXNet models.
+Here, we extract visual features and diagnostics labels from CheXNet models.
+
+download and save the model.pth.tar from the repository
